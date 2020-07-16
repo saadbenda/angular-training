@@ -1,4 +1,4 @@
-import { RecipeService } from './../../../../firstApp/src/app/recipe.service';
+import { RecipeService } from '../recipe.service';
 import { Recipe } from './../model/recipe.model';
 
 import { MOCK_RECIPES } from './../../assets/recipes.mock';
@@ -14,11 +14,11 @@ export class RecipeListComponent implements OnInit {
   recipes: Recipe[];
 
 
-  constructor(private recipeService : RecipeService) { }
+  constructor(private recipe : RecipeService) { }
 
   ngOnInit(): void {
 
-    this.recipeService.getRecipes().subscribe(
+    this.recipe.getRecipes().subscribe(
       (result: Recipe[]) => {
           // Traiter le résultat
           this.recipes =result;
@@ -26,6 +26,7 @@ export class RecipeListComponent implements OnInit {
       },
       (error) => {
           // Traiter l'erreur
+          console.log("error");
       }
   );
   }

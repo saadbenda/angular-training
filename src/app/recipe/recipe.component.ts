@@ -3,8 +3,6 @@ import { Recipe } from './../model/recipe.model';
 import { MOCK_RECIPES } from './../../assets/recipes.mock';
 import { Component, OnInit, Input } from '@angular/core';
 
-
-
 @Component({
   selector: 'app-recipe',
   templateUrl: './recipe.component.html',

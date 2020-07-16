@@ -4,14 +4,15 @@ import { RecipeComponent } from './recipe/recipe.component';
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { Routes, RouterModule } from '@angular/router';
+import { RecipeListComponent } from './recipe-list/recipe-list.component';
 
 
 
 
-const routes: Routes= [
+const routes: Routes = [
   {
       path: 'recipes',
-      component: RecipeComponent,
+      component: RecipeListComponent,
       pathMatch: 'full'
   },
 
@@ -22,11 +23,11 @@ const routes: Routes= [
 }
 
 ,
-  // {
-  //     path: '**',
-  //     redirectTo: 'recipes',
-  //     pathMatch: 'full'
-  // },
+  {
+      path: '**',
+      redirectTo: 'recipes',
+      pathMatch: 'full'
+  },
 
 
 

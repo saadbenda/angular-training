@@ -13,6 +13,7 @@ import {MatCardModule} from '@angular/material/card';
 
 import {HttpClientModule} from '@angular/common/http';
 import { RecipeDetailComponent } from './recipe-detail/recipe-detail.component';
+import { FormComponent } from './form/form.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { RecipeDetailComponent } from './recipe-detail/recipe-detail.component';
     HeaderComponent,
     RecipeComponent,
     RecipeListComponent,
-    RecipeDetailComponent
+    RecipeDetailComponent,
+    FormComponent
   ],
   imports: [
     BrowserModule,
