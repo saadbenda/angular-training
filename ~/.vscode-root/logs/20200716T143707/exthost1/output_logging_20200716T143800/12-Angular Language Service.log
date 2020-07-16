@@ -6,3 +6,7 @@
 [Info  - 14:38:06] Enabling language service for /home/saadbenda/angularTrain/first-app/tsconfig.app.json.
 [Info  - 14:38:09] Enabling language service for /home/saadbenda/angularTrain/first-app/tsconfig.spec.json.
 [Info  - 14:38:09] Disabling language service for /home/saadbenda/angularTrain/first-app/e2e/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+[Error - 15:36:35] No config file for /home/saadbenda/angularTrain/first-app/node_modules/@angular/forms/forms.d.ts
+[Error - 16:18:28] No config file for /home/saadbenda/angularTrain/first-app/node_modules/@angular/forms/forms.d.ts
+[Error - 16:20:25] No config file for /home/saadbenda/angularTrain/first-app/node_modules/rxjs/internal/Observable.d.ts
+[Error - 16:27:23] No config file for /snap/code/37/usr/share/code/resources/app/extensions/node_modules/typescript/lib/lib.dom.d.ts

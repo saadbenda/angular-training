@@ -23,10 +23,17 @@ export class RecipeService {
      return this.http.get<Recipe>(`${ this.recipeUrl }/${ id }`);
  }
 
+ add(recipe: Recipe): Observable<Recipe> {
+  return this.http.post<Recipe>(this.recipeUrl, recipe);
+ }
+ delete(id: string): Observable<void> {
+  return this.http.delete<void>(`${ this.recipeUrl }/${ id }`);
+ }
+}
 
 //   getRecipes(): Observable<Recipe[]> {
 //     return of(MOCK_RECIPES);
 // }
-}
+
 
 
