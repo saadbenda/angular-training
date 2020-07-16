@@ -1,0 +1,132 @@
+["INFO" - 14:37:45] Extension Name: esbenp.prettier-vscode.
+["INFO" - 14:37:45] Extension Version: 5.1.3.
+["INFO" - 14:37:45] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 14:37:45] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 14:42:42] Formatting /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+["INFO" - 14:42:42] Using ignore file (if present) at /home/saadbenda/angularTrain/first-app/.prettierignore
+["INFO" - 14:42:42] Using bundled version of prettier.
+["INFO" - 14:42:42] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 14:42:42] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 14:42:42] Prettier Options:
+{
+  "filepath": "/home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2,
+  "singleQuote": true
+}
+["INFO" - 14:42:42] Formatting completed in 277.790405ms.
+["INFO" - 14:42:44] Formatting /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+["INFO" - 14:42:44] Using ignore file (if present) at /home/saadbenda/angularTrain/first-app/.prettierignore
+["INFO" - 14:42:44] Using bundled version of prettier.
+["INFO" - 14:42:44] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 14:42:44] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 14:42:44] Prettier Options:
+{
+  "filepath": "/home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2,
+  "singleQuote": true
+}
+["INFO" - 14:42:44] Formatting completed in 84.860647ms.
+["INFO" - 15:07:15] Formatting /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+["INFO" - 15:07:15] Using ignore file (if present) at /home/saadbenda/angularTrain/first-app/.prettierignore
+["INFO" - 15:07:15] Using bundled version of prettier.
+["INFO" - 15:07:15] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 15:07:15] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:07:15] Prettier Options:
+{
+  "filepath": "/home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2,
+  "singleQuote": true
+}
+["INFO" - 15:07:15] Formatting completed in 71.301166ms.
+["INFO" - 15:12:23] Formatting /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+["INFO" - 15:12:23] Using ignore file (if present) at /home/saadbenda/angularTrain/first-app/.prettierignore
+["INFO" - 15:12:23] Using bundled version of prettier.
+["INFO" - 15:12:23] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 15:12:23] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 15:12:23] Prettier Options:
+{
+  "filepath": "/home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts",
+  "parser": "typescript",
+  "useTabs": false,
+  "tabWidth": 2,
+  "singleQuote": true
+}
+["ERROR" - 15:12:23] Error formatting document.
+["ERROR" - 15:12:23] Argument expression expected. (13:37)
+  11 |   addForm: FormGroup;
+  12 |   image: 'image';
+> 13 |   model = new Ingredient(10, 'ben', , 'Chuck Overstreet');
+     |                                     ^
+  14 | 
+  15 |   constructor(private fb: FormBuilder) {}
+  16 | 
+SyntaxError: Argument expression expected. (13:37)
+  11 |   addForm: FormGroup;
+  12 |   image: 'image';
+> 13 |   model = new Ingredient(10, 'ben', , 'Chuck Overstreet');
+     |                                     ^
+  14 | 
+  15 |   constructor(private fb: FormBuilder) {}
+  16 | 
+    at t (/home/saadbenda/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-typescript.js:1:349)
+    at Object.parse (/home/saadbenda/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/parser-typescript.js:14:2633274)
+    at Object.parse (/home/saadbenda/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:11370:19)
+    at coreFormat (/home/saadbenda/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:14784:25)
+    at format (/home/saadbenda/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15019:75)
+    at formatWithCursor (/home/saadbenda/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:15035:12)
+    at /home/saadbenda/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51620:12
+    at Object.FormattingResult [as format] (/home/saadbenda/.vscode/extensions/esbenp.prettier-vscode-5.1.3/node_modules/prettier/index.js:51640:12)
+    at t.default.<anonymous> (/home/saadbenda/.vscode/extensions/esbenp.prettier-vscode-5.1.3/src/PrettierEditService.ts:321:45)
+    at Generator.next (<anonymous>)
+    at s (/home/saadbenda/.vscode/extensions/esbenp.prettier-vscode-5.1.3/dist/extension.js:1:53305)
+["INFO" - 15:12:23] Formatting completed in 102.938634ms.

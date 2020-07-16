@@ -1,0 +1,688 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/saadbenda/angularTrain/first-app
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/form/form.component.spec.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.spec.ts
+> git cat-file -s 0ace80a536eb76df1a233effb7afde6421024dab
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git show --textconv :src/app/form/form.component.spec.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.spec.ts
+> git cat-file -s 0ace80a536eb76df1a233effb7afde6421024dab
+> git show --textconv :src/app/app.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app.component.ts
+> git cat-file -s 1f5c123d74134259a806d7cce9aecbc2caec48ac
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app.module.ts
+> git cat-file -s 177e76c6d25befacfcd93e8c4461a62e1fad1007
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app-routing.module.ts
+> git cat-file -s 9ad876e5e5939dad54cda9ddc7184d69caf01bcd
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/form/form.component.scss
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.scss
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app.module.ts
+> git cat-file -s 177e76c6d25befacfcd93e8c4461a62e1fad1007
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :src/app/model/recipe.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe.model.ts
+> git cat-file -s 30d10a08367f39714e845d97ad33c5d475b41485
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app.module.ts
+> git cat-file -s 177e76c6d25befacfcd93e8c4461a62e1fad1007
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app.component.html
+> git cat-file -s 5eb43a196606d8aec653326a9afcc93bdb7aaa96
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app-routing.module.ts
+> git cat-file -s 9ad876e5e5939dad54cda9ddc7184d69caf01bcd
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app.component.html
+> git cat-file -s 5eb43a196606d8aec653326a9afcc93bdb7aaa96
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app.component.html
+> git cat-file -s 5eb43a196606d8aec653326a9afcc93bdb7aaa96
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app-routing.module.ts
+> git cat-file -s 9ad876e5e5939dad54cda9ddc7184d69caf01bcd
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app.component.html
+> git cat-file -s 5eb43a196606d8aec653326a9afcc93bdb7aaa96
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app-routing.module.ts
+> git cat-file -s 9ad876e5e5939dad54cda9ddc7184d69caf01bcd
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv HEAD:src/app/app.component.html
+> git ls-tree -l HEAD -- /home/saadbenda/angularTrain/first-app/src/app/app.component.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/saadbenda/angularTrain/first-app/src/app/app.component.html
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app-routing.module.ts
+> git cat-file -s 9ad876e5e5939dad54cda9ddc7184d69caf01bcd
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app.module.ts
+> git cat-file -s 177e76c6d25befacfcd93e8c4461a62e1fad1007
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app-routing.module.ts
+> git cat-file -s 9ad876e5e5939dad54cda9ddc7184d69caf01bcd
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app.component.html
+> git cat-file -s 5eb43a196606d8aec653326a9afcc93bdb7aaa96
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app-routing.module.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app-routing.module.ts
+> git cat-file -s 9ad876e5e5939dad54cda9ddc7184d69caf01bcd
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app.module.ts
+> git cat-file -s 177e76c6d25befacfcd93e8c4461a62e1fad1007
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app.component.html
+> git cat-file -s 5eb43a196606d8aec653326a9afcc93bdb7aaa96
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/app.module.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app.module.ts
+> git cat-file -s 177e76c6d25befacfcd93e8c4461a62e1fad1007
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/app.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/app.component.html
+> git cat-file -s 5eb43a196606d8aec653326a9afcc93bdb7aaa96
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/model/recipe.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe.model.ts
+> git cat-file -s 30d10a08367f39714e845d97ad33c5d475b41485
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/model/recipe.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe.model.ts
+> git cat-file -s 30d10a08367f39714e845d97ad33c5d475b41485
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/model/recipe.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe.model.ts
+> git cat-file -s 30d10a08367f39714e845d97ad33c5d475b41485
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/model/recipe.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe.model.ts
+> git cat-file -s 30d10a08367f39714e845d97ad33c5d475b41485
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/model/recipe.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe.model.ts
+> git cat-file -s 30d10a08367f39714e845d97ad33c5d475b41485
+> git show --textconv :src/app/model/recipe-ingredient.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe-ingredient.model.ts
+> git cat-file -s 65678046e4cbbd6e108be9f7bd3340b71b6ebb59
+> git show --textconv :src/app/model/recipe.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe.model.ts
+> git cat-file -s 30d10a08367f39714e845d97ad33c5d475b41485
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/model/recipe.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe.model.ts
+> git cat-file -s 30d10a08367f39714e845d97ad33c5d475b41485
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/model/recipe.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe.model.ts
+> git cat-file -s 30d10a08367f39714e845d97ad33c5d475b41485
+> git show --textconv :src/app/model/recipe-ingredient.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe-ingredient.model.ts
+> git cat-file -s 65678046e4cbbd6e108be9f7bd3340b71b6ebb59
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/model/recipe-ingredient.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe-ingredient.model.ts
+> git cat-file -s 65678046e4cbbd6e108be9f7bd3340b71b6ebb59
+> git show --textconv :src/app/model/recipe.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe.model.ts
+> git cat-file -s 30d10a08367f39714e845d97ad33c5d475b41485
+> git show --textconv :src/app/model/recipe-ingredient.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe-ingredient.model.ts
+> git cat-file -s 65678046e4cbbd6e108be9f7bd3340b71b6ebb59
+> git show --textconv :src/app/model/ingredient.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/ingredient.model.ts
+> git cat-file -s 781d0035d0150c2168e7a3fb5b5ec05e90714816
+> git show --textconv :src/app/model/recipe-ingredient.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe-ingredient.model.ts
+> git cat-file -s 65678046e4cbbd6e108be9f7bd3340b71b6ebb59
+> git show --textconv :src/app/form/form.component.html
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.html
+> git cat-file -s 8b137891791fe96927ad78e64b0aad7bded08bdc
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/model/recipe-ingredient.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe-ingredient.model.ts
+> git cat-file -s 65678046e4cbbd6e108be9f7bd3340b71b6ebb59
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/model/recipe-ingredient.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe-ingredient.model.ts
+> git cat-file -s 65678046e4cbbd6e108be9f7bd3340b71b6ebb59
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/model/recipe-ingredient.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe-ingredient.model.ts
+> git cat-file -s 65678046e4cbbd6e108be9f7bd3340b71b6ebb59
+> git show --textconv :src/app/model/recipe.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe.model.ts
+> git cat-file -s 30d10a08367f39714e845d97ad33c5d475b41485
+> git show --textconv :src/app/model/ingredient.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/ingredient.model.ts
+> git cat-file -s 781d0035d0150c2168e7a3fb5b5ec05e90714816
+> git show --textconv :src/app/model/recipe.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe.model.ts
+> git cat-file -s 30d10a08367f39714e845d97ad33c5d475b41485
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/styles.scss
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/styles.scss
+> git cat-file -s 99582f1c66fca1bee039425a9dab46be4007cb82
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/app/form/form.component.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/form/form.component.ts
+> git cat-file -s c800a080566931570c2900b19f829984faddac83
+> git show --textconv :src/app/model/recipe.model.ts
+> git ls-files --stage -- /home/saadbenda/angularTrain/first-app/src/app/model/recipe.model.ts
+> git cat-file -s 30d10a08367f39714e845d97ad33c5d475b41485
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: upstream branch 'refs/heads/master' not stored as a remote-tracking branch
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

@@ -1,6 +1,7 @@
 import { RecipeIngredient } from './recipe-ingredient.model';
 
 export class Recipe {
+
   id?: number;
   name: string;
   picture: string;

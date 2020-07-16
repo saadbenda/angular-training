@@ -1,0 +1,8 @@
+[Info  - 14:38:00] Angular language server process ID: 25398
+[Info  - 14:38:00] Using typescript v3.9.5 from /home/saadbenda/.vscode/extensions/angular.ng-template-0.1000.4/node_modules/typescript/lib/tsserverlibrary.js
+[Info  - 14:38:00] Using @angular/language-service v10.0.4 from /home/saadbenda/.vscode/extensions/angular.ng-template-0.1000.4/server/node_modules/@angular/language-service/bundles/language-service.umd.js
+[Info  - 14:38:00] Log file: /home/saadbenda/angularTrain/first-app/~/.vscode-root/logs/20200716T143707/exthost1/Angular.ng-template/nglangsvc.log
+[Info  - 14:38:06] Disabling language service for /home/saadbenda/angularTrain/first-app/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.
+[Info  - 14:38:06] Enabling language service for /home/saadbenda/angularTrain/first-app/tsconfig.app.json.
+[Info  - 14:38:09] Enabling language service for /home/saadbenda/angularTrain/first-app/tsconfig.spec.json.
+[Info  - 14:38:09] Disabling language service for /home/saadbenda/angularTrain/first-app/e2e/tsconfig.json because it is not an Angular project ('@angular/core/core.d.ts' could not be found). If you believe you are seeing this message in error, please reinstall the packages in your package.json.

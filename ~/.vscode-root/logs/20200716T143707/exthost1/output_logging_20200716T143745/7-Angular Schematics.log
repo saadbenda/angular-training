@@ -1,0 +1,453 @@
+[Info - 14:37:45] Angular Schematics extension has been activated.
+[Info - 14:37:45] 1 workspace folder(s) detected.
+[Info - 14:37:45] Loading configuration of "first-app" workspace folder.
+[Info - 14:37:45] Loading Angular configuration.
+[Info - 14:37:45] Angular config file for "first-app" workspace folder found at: /home/saadbenda/angularTrain/first-app/angular.json
+[Info - 14:37:45] Default schematics collection detected in your Angular config: @schematics/angular
+[Info - 14:37:45] 1 Angular project(s) detected.
+[Info - 14:37:45] "first-app" Angular project is of type "application" and its path is: src/app.
+[Info - 14:37:45] Loading "first-app" Angular project's TSLint configuration.
+[Info - 14:37:45] 0 custom component suffixe(s) detected in TSLint config
+[Info - 14:37:45] 0 custom component type(s) detected in the preferences.
+[Info - 14:37:45] "first-app" project is the root Angular project.
+[Info - 14:37:45] Loading global TSLint configuration.
+[Info - 14:37:45] 0 custom component suffixe(s) detected in TSLint config
+[Info - 14:37:45] Loading schematics configuration.
+[Info - 14:37:45] Loading the list of schematics collections.
+[Info - 14:37:45] 0 user schematics collection(s) detected in Code preferences
+[Info - 14:37:45] 3 installed collection(s) detected: @schematics/angular, @angular/material, @angular/cdk
+[Info - 14:37:45] Loading "@schematics/angular" collection.
+[Info - 14:37:45] 19 schematic(s) detected for "@schematics/angular" collection: ng-new, workspace, serviceWorker, application, e2e, class, component, directive, enum, guard, interceptor, interface, module, pipe, service, universal, appShell, library, webWorker
+[Info - 14:37:45] 15 filtered schematic(s) keeped for "@schematics/angular" collection: serviceWorker, application, class, component, directive, enum, guard, interceptor, interface, module, pipe, service, appShell, library, webWorker
+[Info - 14:37:45] Loading "@schematics/angular:serviceWorker" schematic
+[Info - 14:37:45] 3 options detected for "serviceWorker" schematic: project, target, configuration
+[Info - 14:37:45] 0 required option(s) detected for "serviceWorker" schematic
+[Info - 14:37:45] Loading "@schematics/angular:application" schematic
+[Info - 14:37:45] 15 options detected for "application" schematic: projectRoot, name, inlineStyle, inlineTemplate, viewEncapsulation, routing, prefix, style, skipTests, skipPackageJson, minimal, skipInstall, lintFix, strict, legacyBrowsers
+[Info - 14:37:45] 0 required option(s) detected for "application" schematic
+[Info - 14:37:45] Loading "@schematics/angular:class" schematic
+[Info - 14:37:45] 6 options detected for "class" schematic: name, path, project, skipTests, type, lintFix
+[Info - 14:37:45] 0 required option(s) detected for "class" schematic
+[Info - 14:37:45] Loading "@schematics/angular:component" schematic
+[Info - 14:37:45] 20 options detected for "component" schematic: path, project, name, displayBlock, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, type, skipTests, flat, skipImport, selector, skipSelector, module, export, entryComponent, lintFix
+[Info - 14:37:45] 0 required option(s) detected for "component" schematic
+[Info - 14:37:45] Loading "@schematics/angular:directive" schematic
+[Info - 14:37:45] 11 options detected for "directive" schematic: name, path, project, prefix, skipTests, skipImport, selector, flat, module, export, lintFix
+[Info - 14:37:45] 0 required option(s) detected for "directive" schematic
+[Info - 14:37:45] Loading "@schematics/angular:enum" schematic
+[Info - 14:37:45] 4 options detected for "enum" schematic: name, path, project, lintFix
+[Info - 14:37:45] 0 required option(s) detected for "enum" schematic
+[Info - 14:37:45] Loading "@schematics/angular:guard" schematic
+[Info - 14:37:45] 7 options detected for "guard" schematic: name, skipTests, flat, path, project, lintFix, implements
+[Info - 14:37:45] 0 required option(s) detected for "guard" schematic
+[Info - 14:37:45] Loading "@schematics/angular:interceptor" schematic
+[Info - 14:37:45] 6 options detected for "interceptor" schematic: name, path, project, flat, skipTests, lintFix
+[Info - 14:37:45] 0 required option(s) detected for "interceptor" schematic
+[Info - 14:37:45] Loading "@schematics/angular:interface" schematic
+[Info - 14:37:45] 6 options detected for "interface" schematic: name, path, project, prefix, type, lintFix
+[Info - 14:37:45] 0 required option(s) detected for "interface" schematic
+[Info - 14:37:45] Loading "@schematics/angular:module" schematic
+[Info - 14:37:45] 10 options detected for "module" schematic: name, path, project, routing, routingScope, route, flat, commonModule, module, lintFix
+[Info - 14:37:45] 0 required option(s) detected for "module" schematic
+[Info - 14:37:45] Loading "@schematics/angular:pipe" schematic
+[Info - 14:37:45] 9 options detected for "pipe" schematic: name, path, project, flat, skipTests, skipImport, module, export, lintFix
+[Info - 14:37:45] 0 required option(s) detected for "pipe" schematic
+[Info - 14:37:45] Loading "@schematics/angular:service" schematic
+[Info - 14:37:45] 6 options detected for "service" schematic: name, path, project, flat, skipTests, lintFix
+[Info - 14:37:45] 0 required option(s) detected for "service" schematic
+[Info - 14:37:45] Loading "@schematics/angular:appShell" schematic
+[Info - 14:37:45] 8 options detected for "appShell" schematic: clientProject, route, appId, main, appDir, rootModuleFileName, rootModuleClassName, tsconfigFileName
+[Info - 14:37:45] 0 required option(s) detected for "appShell" schematic
+[Info - 14:37:45] Loading "@schematics/angular:library" schematic
+[Info - 14:37:45] 7 options detected for "library" schematic: name, entryFile, prefix, skipPackageJson, skipInstall, skipTsConfig, lintFix
+[Info - 14:37:45] 0 required option(s) detected for "library" schematic
+[Info - 14:37:45] Loading "@schematics/angular:webWorker" schematic
+[Info - 14:37:45] 5 options detected for "webWorker" schematic: path, project, target, name, snippet
+[Info - 14:37:45] 0 required option(s) detected for "webWorker" schematic
+[Info - 14:37:45] Loading "@angular/material" collection.
+[Info - 14:37:45] 7 schematic(s) detected for "@angular/material" collection: ng-add, ng-add-setup-project, dashboard, table, navigation, tree, addressForm
+[Info - 14:37:45] 5 filtered schematic(s) keeped for "@angular/material" collection: dashboard, table, navigation, tree, addressForm
+[Info - 14:37:45] Loading "@angular/material:dashboard" schematic
+[Info - 14:37:45] 16 options detected for "dashboard" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:37:45] 0 required option(s) detected for "dashboard" schematic
+[Info - 14:37:45] Loading "@angular/material:table" schematic
+[Info - 14:37:45] 16 options detected for "table" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:37:45] 0 required option(s) detected for "table" schematic
+[Info - 14:37:45] Loading "@angular/material:navigation" schematic
+[Info - 14:37:45] 16 options detected for "navigation" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:37:45] 0 required option(s) detected for "navigation" schematic
+[Info - 14:37:45] Loading "@angular/material:tree" schematic
+[Info - 14:37:45] 16 options detected for "tree" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:37:45] 0 required option(s) detected for "tree" schematic
+[Info - 14:37:45] Loading "@angular/material:addressForm" schematic
+[Info - 14:37:45] 16 options detected for "addressForm" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:37:45] 0 required option(s) detected for "addressForm" schematic
+[Info - 14:37:45] Loading "@angular/cdk" collection.
+[Info - 14:37:45] 2 schematic(s) detected for "@angular/cdk" collection: ng-add, drag-drop
+[Info - 14:37:45] 1 filtered schematic(s) keeped for "@angular/cdk" collection: drag-drop
+[Info - 14:37:45] Loading "@angular/cdk:drag-drop" schematic
+[Info - 14:37:45] 16 options detected for "drag-drop" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:37:45] 0 required option(s) detected for "drag-drop" schematic
+[Info - 14:37:45] 0 custom component type(s) detected in the preferences.
+[Info - 14:37:45] Lazy-loaded module type: enabled
+[Info - 14:37:45] Configurations of all workspace folders are now ready. Duration: 622ms.
+[Info - 14:40:55] Reloading "first-app" workspace folder configuration.
+[Info - 14:40:55] Loading Angular configuration.
+[Info - 14:40:55] Angular config file for "first-app" workspace folder found at: /home/saadbenda/angularTrain/first-app/angular.json
+[Info - 14:40:55] Default schematics collection detected in your Angular config: @schematics/angular
+[Info - 14:40:55] 1 Angular project(s) detected.
+[Info - 14:40:55] "first-app" Angular project is of type "application" and its path is: src/app.
+[Info - 14:40:55] Loading "first-app" Angular project's TSLint configuration.
+[Info - 14:40:55] 0 custom component suffixe(s) detected in TSLint config
+[Info - 14:40:55] 0 custom component type(s) detected in the preferences.
+[Info - 14:40:55] "first-app" project is the root Angular project.
+[Info - 14:40:55] Loading global TSLint configuration.
+[Info - 14:40:55] 0 custom component suffixe(s) detected in TSLint config
+[Info - 14:40:55] Loading schematics configuration.
+[Info - 14:40:55] Loading the list of schematics collections.
+[Info - 14:40:55] 0 user schematics collection(s) detected in Code preferences
+[Info - 14:40:55] 3 installed collection(s) detected: @schematics/angular, @angular/material, @angular/cdk
+[Info - 14:40:55] Loading "@schematics/angular" collection.
+[Info - 14:40:55] 19 schematic(s) detected for "@schematics/angular" collection: ng-new, workspace, serviceWorker, application, e2e, class, component, directive, enum, guard, interceptor, interface, module, pipe, service, universal, appShell, library, webWorker
+[Info - 14:40:55] 15 filtered schematic(s) keeped for "@schematics/angular" collection: serviceWorker, application, class, component, directive, enum, guard, interceptor, interface, module, pipe, service, appShell, library, webWorker
+[Info - 14:40:55] Loading "@schematics/angular:serviceWorker" schematic
+[Info - 14:40:55] 3 options detected for "serviceWorker" schematic: project, target, configuration
+[Info - 14:40:55] 0 required option(s) detected for "serviceWorker" schematic
+[Info - 14:40:55] Loading "@schematics/angular:application" schematic
+[Info - 14:40:55] 15 options detected for "application" schematic: projectRoot, name, inlineStyle, inlineTemplate, viewEncapsulation, routing, prefix, style, skipTests, skipPackageJson, minimal, skipInstall, lintFix, strict, legacyBrowsers
+[Info - 14:40:55] 0 required option(s) detected for "application" schematic
+[Info - 14:40:55] Loading "@schematics/angular:class" schematic
+[Info - 14:40:55] 6 options detected for "class" schematic: name, path, project, skipTests, type, lintFix
+[Info - 14:40:55] 0 required option(s) detected for "class" schematic
+[Info - 14:40:55] Loading "@schematics/angular:component" schematic
+[Info - 14:40:55] 20 options detected for "component" schematic: path, project, name, displayBlock, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, type, skipTests, flat, skipImport, selector, skipSelector, module, export, entryComponent, lintFix
+[Info - 14:40:55] 0 required option(s) detected for "component" schematic
+[Info - 14:40:55] Loading "@schematics/angular:directive" schematic
+[Info - 14:40:55] 11 options detected for "directive" schematic: name, path, project, prefix, skipTests, skipImport, selector, flat, module, export, lintFix
+[Info - 14:40:55] 0 required option(s) detected for "directive" schematic
+[Info - 14:40:55] Loading "@schematics/angular:enum" schematic
+[Info - 14:40:55] 4 options detected for "enum" schematic: name, path, project, lintFix
+[Info - 14:40:55] 0 required option(s) detected for "enum" schematic
+[Info - 14:40:55] Loading "@schematics/angular:guard" schematic
+[Info - 14:40:55] 7 options detected for "guard" schematic: name, skipTests, flat, path, project, lintFix, implements
+[Info - 14:40:55] 0 required option(s) detected for "guard" schematic
+[Info - 14:40:55] Loading "@schematics/angular:interceptor" schematic
+[Info - 14:40:55] 6 options detected for "interceptor" schematic: name, path, project, flat, skipTests, lintFix
+[Info - 14:40:55] 0 required option(s) detected for "interceptor" schematic
+[Info - 14:40:55] Loading "@schematics/angular:interface" schematic
+[Info - 14:40:55] 6 options detected for "interface" schematic: name, path, project, prefix, type, lintFix
+[Info - 14:40:55] 0 required option(s) detected for "interface" schematic
+[Info - 14:40:55] Loading "@schematics/angular:module" schematic
+[Info - 14:40:55] 10 options detected for "module" schematic: name, path, project, routing, routingScope, route, flat, commonModule, module, lintFix
+[Info - 14:40:55] 0 required option(s) detected for "module" schematic
+[Info - 14:40:55] Loading "@schematics/angular:pipe" schematic
+[Info - 14:40:55] 9 options detected for "pipe" schematic: name, path, project, flat, skipTests, skipImport, module, export, lintFix
+[Info - 14:40:55] 0 required option(s) detected for "pipe" schematic
+[Info - 14:40:55] Loading "@schematics/angular:service" schematic
+[Info - 14:40:55] 6 options detected for "service" schematic: name, path, project, flat, skipTests, lintFix
+[Info - 14:40:55] 0 required option(s) detected for "service" schematic
+[Info - 14:40:55] Loading "@schematics/angular:appShell" schematic
+[Info - 14:40:55] 8 options detected for "appShell" schematic: clientProject, route, appId, main, appDir, rootModuleFileName, rootModuleClassName, tsconfigFileName
+[Info - 14:40:55] 0 required option(s) detected for "appShell" schematic
+[Info - 14:40:55] Loading "@schematics/angular:library" schematic
+[Info - 14:40:55] 7 options detected for "library" schematic: name, entryFile, prefix, skipPackageJson, skipInstall, skipTsConfig, lintFix
+[Info - 14:40:55] 0 required option(s) detected for "library" schematic
+[Info - 14:40:55] Loading "@schematics/angular:webWorker" schematic
+[Info - 14:40:55] 5 options detected for "webWorker" schematic: path, project, target, name, snippet
+[Info - 14:40:55] 0 required option(s) detected for "webWorker" schematic
+[Info - 14:40:55] Loading "@angular/material" collection.
+[Info - 14:40:55] 7 schematic(s) detected for "@angular/material" collection: ng-add, ng-add-setup-project, dashboard, table, navigation, tree, addressForm
+[Info - 14:40:55] 5 filtered schematic(s) keeped for "@angular/material" collection: dashboard, table, navigation, tree, addressForm
+[Info - 14:40:55] Loading "@angular/material:dashboard" schematic
+[Info - 14:40:55] 16 options detected for "dashboard" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:40:55] 0 required option(s) detected for "dashboard" schematic
+[Info - 14:40:55] Loading "@angular/material:table" schematic
+[Info - 14:40:55] 16 options detected for "table" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:40:55] 0 required option(s) detected for "table" schematic
+[Info - 14:40:55] Loading "@angular/material:navigation" schematic
+[Info - 14:40:55] 16 options detected for "navigation" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:40:55] 0 required option(s) detected for "navigation" schematic
+[Info - 14:40:55] Loading "@angular/material:tree" schematic
+[Info - 14:40:55] 16 options detected for "tree" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:40:55] 0 required option(s) detected for "tree" schematic
+[Info - 14:40:55] Loading "@angular/material:addressForm" schematic
+[Info - 14:40:55] 16 options detected for "addressForm" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:40:55] 0 required option(s) detected for "addressForm" schematic
+[Info - 14:40:55] Loading "@angular/cdk" collection.
+[Info - 14:40:55] 2 schematic(s) detected for "@angular/cdk" collection: ng-add, drag-drop
+[Info - 14:40:55] 1 filtered schematic(s) keeped for "@angular/cdk" collection: drag-drop
+[Info - 14:40:55] Loading "@angular/cdk:drag-drop" schematic
+[Info - 14:40:55] 16 options detected for "drag-drop" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:40:55] 0 required option(s) detected for "drag-drop" schematic
+[Info - 14:40:55] 0 custom component type(s) detected in the preferences.
+[Info - 14:40:55] Lazy-loaded module type: enabled
+[Info - 14:42:42] Reloading "first-app" workspace folder configuration.
+[Info - 14:42:42] Loading Angular configuration.
+[Info - 14:42:42] Angular config file for "first-app" workspace folder found at: /home/saadbenda/angularTrain/first-app/angular.json
+[Info - 14:42:42] Default schematics collection detected in your Angular config: @schematics/angular
+[Info - 14:42:42] 1 Angular project(s) detected.
+[Info - 14:42:42] "first-app" Angular project is of type "application" and its path is: src/app.
+[Info - 14:42:42] Loading "first-app" Angular project's TSLint configuration.
+[Info - 14:42:42] 0 custom component suffixe(s) detected in TSLint config
+[Info - 14:42:42] 0 custom component type(s) detected in the preferences.
+[Info - 14:42:42] "first-app" project is the root Angular project.
+[Info - 14:42:42] Loading global TSLint configuration.
+[Info - 14:42:42] 0 custom component suffixe(s) detected in TSLint config
+[Info - 14:42:42] Loading schematics configuration.
+[Info - 14:42:42] Loading the list of schematics collections.
+[Info - 14:42:42] 0 user schematics collection(s) detected in Code preferences
+[Info - 14:42:42] 3 installed collection(s) detected: @schematics/angular, @angular/material, @angular/cdk
+[Info - 14:42:42] Loading "@schematics/angular" collection.
+[Info - 14:42:42] 19 schematic(s) detected for "@schematics/angular" collection: ng-new, workspace, serviceWorker, application, e2e, class, component, directive, enum, guard, interceptor, interface, module, pipe, service, universal, appShell, library, webWorker
+[Info - 14:42:42] 15 filtered schematic(s) keeped for "@schematics/angular" collection: serviceWorker, application, class, component, directive, enum, guard, interceptor, interface, module, pipe, service, appShell, library, webWorker
+[Info - 14:42:42] Loading "@schematics/angular:serviceWorker" schematic
+[Info - 14:42:42] 3 options detected for "serviceWorker" schematic: project, target, configuration
+[Info - 14:42:42] 0 required option(s) detected for "serviceWorker" schematic
+[Info - 14:42:42] Loading "@schematics/angular:application" schematic
+[Info - 14:42:42] 15 options detected for "application" schematic: projectRoot, name, inlineStyle, inlineTemplate, viewEncapsulation, routing, prefix, style, skipTests, skipPackageJson, minimal, skipInstall, lintFix, strict, legacyBrowsers
+[Info - 14:42:42] 0 required option(s) detected for "application" schematic
+[Info - 14:42:42] Loading "@schematics/angular:class" schematic
+[Info - 14:42:42] 6 options detected for "class" schematic: name, path, project, skipTests, type, lintFix
+[Info - 14:42:42] 0 required option(s) detected for "class" schematic
+[Info - 14:42:42] Loading "@schematics/angular:component" schematic
+[Info - 14:42:42] 20 options detected for "component" schematic: path, project, name, displayBlock, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, type, skipTests, flat, skipImport, selector, skipSelector, module, export, entryComponent, lintFix
+[Info - 14:42:42] 0 required option(s) detected for "component" schematic
+[Info - 14:42:42] Loading "@schematics/angular:directive" schematic
+[Info - 14:42:42] 11 options detected for "directive" schematic: name, path, project, prefix, skipTests, skipImport, selector, flat, module, export, lintFix
+[Info - 14:42:42] 0 required option(s) detected for "directive" schematic
+[Info - 14:42:42] Loading "@schematics/angular:enum" schematic
+[Info - 14:42:42] 4 options detected for "enum" schematic: name, path, project, lintFix
+[Info - 14:42:42] 0 required option(s) detected for "enum" schematic
+[Info - 14:42:42] Loading "@schematics/angular:guard" schematic
+[Info - 14:42:42] 7 options detected for "guard" schematic: name, skipTests, flat, path, project, lintFix, implements
+[Info - 14:42:42] 0 required option(s) detected for "guard" schematic
+[Info - 14:42:42] Loading "@schematics/angular:interceptor" schematic
+[Info - 14:42:42] 6 options detected for "interceptor" schematic: name, path, project, flat, skipTests, lintFix
+[Info - 14:42:42] 0 required option(s) detected for "interceptor" schematic
+[Info - 14:42:42] Loading "@schematics/angular:interface" schematic
+[Info - 14:42:42] 6 options detected for "interface" schematic: name, path, project, prefix, type, lintFix
+[Info - 14:42:42] 0 required option(s) detected for "interface" schematic
+[Info - 14:42:42] Loading "@schematics/angular:module" schematic
+[Info - 14:42:42] 10 options detected for "module" schematic: name, path, project, routing, routingScope, route, flat, commonModule, module, lintFix
+[Info - 14:42:42] 0 required option(s) detected for "module" schematic
+[Info - 14:42:42] Loading "@schematics/angular:pipe" schematic
+[Info - 14:42:42] 9 options detected for "pipe" schematic: name, path, project, flat, skipTests, skipImport, module, export, lintFix
+[Info - 14:42:42] 0 required option(s) detected for "pipe" schematic
+[Info - 14:42:42] Loading "@schematics/angular:service" schematic
+[Info - 14:42:42] 6 options detected for "service" schematic: name, path, project, flat, skipTests, lintFix
+[Info - 14:42:42] 0 required option(s) detected for "service" schematic
+[Info - 14:42:42] Loading "@schematics/angular:appShell" schematic
+[Info - 14:42:42] 8 options detected for "appShell" schematic: clientProject, route, appId, main, appDir, rootModuleFileName, rootModuleClassName, tsconfigFileName
+[Info - 14:42:42] 0 required option(s) detected for "appShell" schematic
+[Info - 14:42:42] Loading "@schematics/angular:library" schematic
+[Info - 14:42:42] 7 options detected for "library" schematic: name, entryFile, prefix, skipPackageJson, skipInstall, skipTsConfig, lintFix
+[Info - 14:42:42] 0 required option(s) detected for "library" schematic
+[Info - 14:42:42] Loading "@schematics/angular:webWorker" schematic
+[Info - 14:42:42] 5 options detected for "webWorker" schematic: path, project, target, name, snippet
+[Info - 14:42:42] 0 required option(s) detected for "webWorker" schematic
+[Info - 14:42:42] Loading "@angular/material" collection.
+[Info - 14:42:42] 7 schematic(s) detected for "@angular/material" collection: ng-add, ng-add-setup-project, dashboard, table, navigation, tree, addressForm
+[Info - 14:42:42] 5 filtered schematic(s) keeped for "@angular/material" collection: dashboard, table, navigation, tree, addressForm
+[Info - 14:42:42] Loading "@angular/material:dashboard" schematic
+[Info - 14:42:42] 16 options detected for "dashboard" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:42:42] 0 required option(s) detected for "dashboard" schematic
+[Info - 14:42:42] Loading "@angular/material:table" schematic
+[Info - 14:42:42] 16 options detected for "table" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:42:42] 0 required option(s) detected for "table" schematic
+[Info - 14:42:42] Loading "@angular/material:navigation" schematic
+[Info - 14:42:42] 16 options detected for "navigation" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:42:42] 0 required option(s) detected for "navigation" schematic
+[Info - 14:42:42] Loading "@angular/material:tree" schematic
+[Info - 14:42:42] 16 options detected for "tree" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:42:42] 0 required option(s) detected for "tree" schematic
+[Info - 14:42:42] Loading "@angular/material:addressForm" schematic
+[Info - 14:42:42] 16 options detected for "addressForm" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:42:42] 0 required option(s) detected for "addressForm" schematic
+[Info - 14:42:42] Loading "@angular/cdk" collection.
+[Info - 14:42:42] 2 schematic(s) detected for "@angular/cdk" collection: ng-add, drag-drop
+[Info - 14:42:42] 1 filtered schematic(s) keeped for "@angular/cdk" collection: drag-drop
+[Info - 14:42:42] Loading "@angular/cdk:drag-drop" schematic
+[Info - 14:42:42] 16 options detected for "drag-drop" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:42:42] 0 required option(s) detected for "drag-drop" schematic
+[Info - 14:42:42] 0 custom component type(s) detected in the preferences.
+[Info - 14:42:42] Lazy-loaded module type: enabled
+[Info - 14:57:44] Reloading "first-app" workspace folder configuration.
+[Info - 14:57:44] Loading Angular configuration.
+[Info - 14:57:44] Angular config file for "first-app" workspace folder found at: /home/saadbenda/angularTrain/first-app/angular.json
+[Info - 14:57:44] Default schematics collection detected in your Angular config: @schematics/angular
+[Info - 14:57:44] 1 Angular project(s) detected.
+[Info - 14:57:44] "first-app" Angular project is of type "application" and its path is: src/app.
+[Info - 14:57:44] Loading "first-app" Angular project's TSLint configuration.
+[Info - 14:57:44] 0 custom component suffixe(s) detected in TSLint config
+[Info - 14:57:44] 0 custom component type(s) detected in the preferences.
+[Info - 14:57:44] "first-app" project is the root Angular project.
+[Info - 14:57:44] Loading global TSLint configuration.
+[Info - 14:57:44] 0 custom component suffixe(s) detected in TSLint config
+[Info - 14:57:44] Loading schematics configuration.
+[Info - 14:57:44] Loading the list of schematics collections.
+[Info - 14:57:44] 0 user schematics collection(s) detected in Code preferences
+[Info - 14:57:44] 3 installed collection(s) detected: @schematics/angular, @angular/material, @angular/cdk
+[Info - 14:57:44] Loading "@schematics/angular" collection.
+[Info - 14:57:44] 19 schematic(s) detected for "@schematics/angular" collection: ng-new, workspace, serviceWorker, application, e2e, class, component, directive, enum, guard, interceptor, interface, module, pipe, service, universal, appShell, library, webWorker
+[Info - 14:57:44] 15 filtered schematic(s) keeped for "@schematics/angular" collection: serviceWorker, application, class, component, directive, enum, guard, interceptor, interface, module, pipe, service, appShell, library, webWorker
+[Info - 14:57:44] Loading "@schematics/angular:serviceWorker" schematic
+[Info - 14:57:44] 3 options detected for "serviceWorker" schematic: project, target, configuration
+[Info - 14:57:44] 0 required option(s) detected for "serviceWorker" schematic
+[Info - 14:57:44] Loading "@schematics/angular:application" schematic
+[Info - 14:57:44] 15 options detected for "application" schematic: projectRoot, name, inlineStyle, inlineTemplate, viewEncapsulation, routing, prefix, style, skipTests, skipPackageJson, minimal, skipInstall, lintFix, strict, legacyBrowsers
+[Info - 14:57:44] 0 required option(s) detected for "application" schematic
+[Info - 14:57:44] Loading "@schematics/angular:class" schematic
+[Info - 14:57:44] 6 options detected for "class" schematic: name, path, project, skipTests, type, lintFix
+[Info - 14:57:44] 0 required option(s) detected for "class" schematic
+[Info - 14:57:44] Loading "@schematics/angular:component" schematic
+[Info - 14:57:44] 20 options detected for "component" schematic: path, project, name, displayBlock, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, type, skipTests, flat, skipImport, selector, skipSelector, module, export, entryComponent, lintFix
+[Info - 14:57:44] 0 required option(s) detected for "component" schematic
+[Info - 14:57:44] Loading "@schematics/angular:directive" schematic
+[Info - 14:57:44] 11 options detected for "directive" schematic: name, path, project, prefix, skipTests, skipImport, selector, flat, module, export, lintFix
+[Info - 14:57:44] 0 required option(s) detected for "directive" schematic
+[Info - 14:57:44] Loading "@schematics/angular:enum" schematic
+[Info - 14:57:44] 4 options detected for "enum" schematic: name, path, project, lintFix
+[Info - 14:57:44] 0 required option(s) detected for "enum" schematic
+[Info - 14:57:44] Loading "@schematics/angular:guard" schematic
+[Info - 14:57:44] 7 options detected for "guard" schematic: name, skipTests, flat, path, project, lintFix, implements
+[Info - 14:57:44] 0 required option(s) detected for "guard" schematic
+[Info - 14:57:44] Loading "@schematics/angular:interceptor" schematic
+[Info - 14:57:44] 6 options detected for "interceptor" schematic: name, path, project, flat, skipTests, lintFix
+[Info - 14:57:44] 0 required option(s) detected for "interceptor" schematic
+[Info - 14:57:44] Loading "@schematics/angular:interface" schematic
+[Info - 14:57:44] 6 options detected for "interface" schematic: name, path, project, prefix, type, lintFix
+[Info - 14:57:44] 0 required option(s) detected for "interface" schematic
+[Info - 14:57:44] Loading "@schematics/angular:module" schematic
+[Info - 14:57:44] 10 options detected for "module" schematic: name, path, project, routing, routingScope, route, flat, commonModule, module, lintFix
+[Info - 14:57:44] 0 required option(s) detected for "module" schematic
+[Info - 14:57:44] Loading "@schematics/angular:pipe" schematic
+[Info - 14:57:44] 9 options detected for "pipe" schematic: name, path, project, flat, skipTests, skipImport, module, export, lintFix
+[Info - 14:57:44] 0 required option(s) detected for "pipe" schematic
+[Info - 14:57:44] Loading "@schematics/angular:service" schematic
+[Info - 14:57:44] 6 options detected for "service" schematic: name, path, project, flat, skipTests, lintFix
+[Info - 14:57:44] 0 required option(s) detected for "service" schematic
+[Info - 14:57:44] Loading "@schematics/angular:appShell" schematic
+[Info - 14:57:44] 8 options detected for "appShell" schematic: clientProject, route, appId, main, appDir, rootModuleFileName, rootModuleClassName, tsconfigFileName
+[Info - 14:57:44] 0 required option(s) detected for "appShell" schematic
+[Info - 14:57:44] Loading "@schematics/angular:library" schematic
+[Info - 14:57:44] 7 options detected for "library" schematic: name, entryFile, prefix, skipPackageJson, skipInstall, skipTsConfig, lintFix
+[Info - 14:57:44] 0 required option(s) detected for "library" schematic
+[Info - 14:57:44] Loading "@schematics/angular:webWorker" schematic
+[Info - 14:57:44] 5 options detected for "webWorker" schematic: path, project, target, name, snippet
+[Info - 14:57:44] 0 required option(s) detected for "webWorker" schematic
+[Info - 14:57:44] Loading "@angular/material" collection.
+[Info - 14:57:44] 7 schematic(s) detected for "@angular/material" collection: ng-add, ng-add-setup-project, dashboard, table, navigation, tree, addressForm
+[Info - 14:57:44] 5 filtered schematic(s) keeped for "@angular/material" collection: dashboard, table, navigation, tree, addressForm
+[Info - 14:57:44] Loading "@angular/material:dashboard" schematic
+[Info - 14:57:44] 16 options detected for "dashboard" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:57:44] 0 required option(s) detected for "dashboard" schematic
+[Info - 14:57:44] Loading "@angular/material:table" schematic
+[Info - 14:57:44] 16 options detected for "table" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:57:44] 0 required option(s) detected for "table" schematic
+[Info - 14:57:44] Loading "@angular/material:navigation" schematic
+[Info - 14:57:44] 16 options detected for "navigation" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:57:44] 0 required option(s) detected for "navigation" schematic
+[Info - 14:57:44] Loading "@angular/material:tree" schematic
+[Info - 14:57:44] 16 options detected for "tree" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:57:44] 0 required option(s) detected for "tree" schematic
+[Info - 14:57:44] Loading "@angular/material:addressForm" schematic
+[Info - 14:57:44] 16 options detected for "addressForm" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:57:44] 0 required option(s) detected for "addressForm" schematic
+[Info - 14:57:44] Loading "@angular/cdk" collection.
+[Info - 14:57:44] 2 schematic(s) detected for "@angular/cdk" collection: ng-add, drag-drop
+[Info - 14:57:44] 1 filtered schematic(s) keeped for "@angular/cdk" collection: drag-drop
+[Info - 14:57:44] Loading "@angular/cdk:drag-drop" schematic
+[Info - 14:57:44] 16 options detected for "drag-drop" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:57:44] 0 required option(s) detected for "drag-drop" schematic
+[Info - 14:57:44] 0 custom component type(s) detected in the preferences.
+[Info - 14:57:44] Lazy-loaded module type: enabled
+[Info - 14:57:46] Reloading "first-app" workspace folder configuration.
+[Info - 14:57:46] Loading Angular configuration.
+[Info - 14:57:46] Angular config file for "first-app" workspace folder found at: /home/saadbenda/angularTrain/first-app/angular.json
+[Info - 14:57:46] Default schematics collection detected in your Angular config: @schematics/angular
+[Info - 14:57:46] 1 Angular project(s) detected.
+[Info - 14:57:46] "first-app" Angular project is of type "application" and its path is: src/app.
+[Info - 14:57:46] Loading "first-app" Angular project's TSLint configuration.
+[Info - 14:57:46] 0 custom component suffixe(s) detected in TSLint config
+[Info - 14:57:46] 0 custom component type(s) detected in the preferences.
+[Info - 14:57:46] "first-app" project is the root Angular project.
+[Info - 14:57:46] Loading global TSLint configuration.
+[Info - 14:57:46] 0 custom component suffixe(s) detected in TSLint config
+[Info - 14:57:46] Loading schematics configuration.
+[Info - 14:57:46] Loading the list of schematics collections.
+[Info - 14:57:46] 0 user schematics collection(s) detected in Code preferences
+[Info - 14:57:46] 3 installed collection(s) detected: @schematics/angular, @angular/material, @angular/cdk
+[Info - 14:57:46] Loading "@schematics/angular" collection.
+[Info - 14:57:46] 19 schematic(s) detected for "@schematics/angular" collection: ng-new, workspace, serviceWorker, application, e2e, class, component, directive, enum, guard, interceptor, interface, module, pipe, service, universal, appShell, library, webWorker
+[Info - 14:57:46] 15 filtered schematic(s) keeped for "@schematics/angular" collection: serviceWorker, application, class, component, directive, enum, guard, interceptor, interface, module, pipe, service, appShell, library, webWorker
+[Info - 14:57:46] Loading "@schematics/angular:serviceWorker" schematic
+[Info - 14:57:46] 3 options detected for "serviceWorker" schematic: project, target, configuration
+[Info - 14:57:46] 0 required option(s) detected for "serviceWorker" schematic
+[Info - 14:57:46] Loading "@schematics/angular:application" schematic
+[Info - 14:57:46] 15 options detected for "application" schematic: projectRoot, name, inlineStyle, inlineTemplate, viewEncapsulation, routing, prefix, style, skipTests, skipPackageJson, minimal, skipInstall, lintFix, strict, legacyBrowsers
+[Info - 14:57:46] 0 required option(s) detected for "application" schematic
+[Info - 14:57:46] Loading "@schematics/angular:class" schematic
+[Info - 14:57:46] 6 options detected for "class" schematic: name, path, project, skipTests, type, lintFix
+[Info - 14:57:46] 0 required option(s) detected for "class" schematic
+[Info - 14:57:46] Loading "@schematics/angular:component" schematic
+[Info - 14:57:46] 20 options detected for "component" schematic: path, project, name, displayBlock, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, type, skipTests, flat, skipImport, selector, skipSelector, module, export, entryComponent, lintFix
+[Info - 14:57:46] 0 required option(s) detected for "component" schematic
+[Info - 14:57:46] Loading "@schematics/angular:directive" schematic
+[Info - 14:57:46] 11 options detected for "directive" schematic: name, path, project, prefix, skipTests, skipImport, selector, flat, module, export, lintFix
+[Info - 14:57:46] 0 required option(s) detected for "directive" schematic
+[Info - 14:57:46] Loading "@schematics/angular:enum" schematic
+[Info - 14:57:46] 4 options detected for "enum" schematic: name, path, project, lintFix
+[Info - 14:57:46] 0 required option(s) detected for "enum" schematic
+[Info - 14:57:46] Loading "@schematics/angular:guard" schematic
+[Info - 14:57:46] 7 options detected for "guard" schematic: name, skipTests, flat, path, project, lintFix, implements
+[Info - 14:57:46] 0 required option(s) detected for "guard" schematic
+[Info - 14:57:46] Loading "@schematics/angular:interceptor" schematic
+[Info - 14:57:46] 6 options detected for "interceptor" schematic: name, path, project, flat, skipTests, lintFix
+[Info - 14:57:46] 0 required option(s) detected for "interceptor" schematic
+[Info - 14:57:46] Loading "@schematics/angular:interface" schematic
+[Info - 14:57:46] 6 options detected for "interface" schematic: name, path, project, prefix, type, lintFix
+[Info - 14:57:46] 0 required option(s) detected for "interface" schematic
+[Info - 14:57:46] Loading "@schematics/angular:module" schematic
+[Info - 14:57:46] 10 options detected for "module" schematic: name, path, project, routing, routingScope, route, flat, commonModule, module, lintFix
+[Info - 14:57:46] 0 required option(s) detected for "module" schematic
+[Info - 14:57:46] Loading "@schematics/angular:pipe" schematic
+[Info - 14:57:46] 9 options detected for "pipe" schematic: name, path, project, flat, skipTests, skipImport, module, export, lintFix
+[Info - 14:57:46] 0 required option(s) detected for "pipe" schematic
+[Info - 14:57:46] Loading "@schematics/angular:service" schematic
+[Info - 14:57:46] 6 options detected for "service" schematic: name, path, project, flat, skipTests, lintFix
+[Info - 14:57:46] 0 required option(s) detected for "service" schematic
+[Info - 14:57:46] Loading "@schematics/angular:appShell" schematic
+[Info - 14:57:46] 8 options detected for "appShell" schematic: clientProject, route, appId, main, appDir, rootModuleFileName, rootModuleClassName, tsconfigFileName
+[Info - 14:57:46] 0 required option(s) detected for "appShell" schematic
+[Info - 14:57:46] Loading "@schematics/angular:library" schematic
+[Info - 14:57:46] 7 options detected for "library" schematic: name, entryFile, prefix, skipPackageJson, skipInstall, skipTsConfig, lintFix
+[Info - 14:57:46] 0 required option(s) detected for "library" schematic
+[Info - 14:57:46] Loading "@schematics/angular:webWorker" schematic
+[Info - 14:57:46] 5 options detected for "webWorker" schematic: path, project, target, name, snippet
+[Info - 14:57:46] 0 required option(s) detected for "webWorker" schematic
+[Info - 14:57:46] Loading "@angular/material" collection.
+[Info - 14:57:46] 7 schematic(s) detected for "@angular/material" collection: ng-add, ng-add-setup-project, dashboard, table, navigation, tree, addressForm
+[Info - 14:57:46] 5 filtered schematic(s) keeped for "@angular/material" collection: dashboard, table, navigation, tree, addressForm
+[Info - 14:57:46] Loading "@angular/material:dashboard" schematic
+[Info - 14:57:46] 16 options detected for "dashboard" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:57:46] 0 required option(s) detected for "dashboard" schematic
+[Info - 14:57:46] Loading "@angular/material:table" schematic
+[Info - 14:57:46] 16 options detected for "table" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:57:46] 0 required option(s) detected for "table" schematic
+[Info - 14:57:46] Loading "@angular/material:navigation" schematic
+[Info - 14:57:46] 16 options detected for "navigation" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:57:46] 0 required option(s) detected for "navigation" schematic
+[Info - 14:57:46] Loading "@angular/material:tree" schematic
+[Info - 14:57:46] 16 options detected for "tree" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:57:46] 0 required option(s) detected for "tree" schematic
+[Info - 14:57:46] Loading "@angular/material:addressForm" schematic
+[Info - 14:57:46] 16 options detected for "addressForm" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:57:46] 0 required option(s) detected for "addressForm" schematic
+[Info - 14:57:46] Loading "@angular/cdk" collection.
+[Info - 14:57:46] 2 schematic(s) detected for "@angular/cdk" collection: ng-add, drag-drop
+[Info - 14:57:46] 1 filtered schematic(s) keeped for "@angular/cdk" collection: drag-drop
+[Info - 14:57:46] Loading "@angular/cdk:drag-drop" schematic
+[Info - 14:57:46] 16 options detected for "drag-drop" schematic: path, project, name, inlineStyle, inlineTemplate, viewEncapsulation, changeDetection, prefix, style, skipTests, flat, skipImport, selector, module, export, entryComponent
+[Info - 14:57:46] 0 required option(s) detected for "drag-drop" schematic
+[Info - 14:57:46] 0 custom component type(s) detected in the preferences.
+[Info - 14:57:46] Lazy-loaded module type: enabled
